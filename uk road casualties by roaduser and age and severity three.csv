@@ -1,0 +1,361 @@
+﻿Year,Road user type,Age group,allCas
+2004,Pedestrians,0 to 15 (children),12234
+2004,Pedestrians,16 to 59,16782
+2004,Pedestrians,60 and over,4622
+2004,Pedal cyclists,0 to 15 (children),4682
+2004,Pedal cyclists,16 to 59,10445
+2004,Pedal cyclists,60 and over,921
+2004,Motorcycle users,0 to 15 (children),434
+2004,Motorcycle users,16 to 59,24110
+2004,Motorcycle users,60 and over,622
+2004,Car drivers,16 to 59,108555
+2004,Car drivers,60 and over,12058
+2004,Car passengers,0 to 15 (children),11813
+2004,Car passengers,16 to 59,40763
+2004,Car passengers,60 and over,6421
+2004,Car occupants,0 to 15 (children),11885
+2004,Car occupants,16 to 59,149318
+2004,Car occupants,60 and over,18479
+2004,All road users,0 to 15 (children),31000
+2004,All road users,16 to 59,214275
+2004,All road users,60 and over,28091
+2005,Pedestrians,0 to 15 (children),11250
+2005,Pedestrians,16 to 59,16296
+2005,Pedestrians,60 and over,4429
+2005,Pedal cyclists,0 to 15 (children),4286
+2005,Pedal cyclists,16 to 59,10700
+2005,Pedal cyclists,60 and over,937
+2005,Motorcycle users,0 to 15 (children),432
+2005,Motorcycle users,16 to 59,23325
+2005,Motorcycle users,60 and over,588
+2005,Car drivers,16 to 59,106265
+2005,Car drivers,60 and over,11858
+2005,Car passengers,0 to 15 (children),10734
+2005,Car passengers,16 to 59,39248
+2005,Car passengers,60 and over,5999
+2005,Car occupants,0 to 15 (children),10790
+2005,Car occupants,16 to 59,145513
+2005,Car occupants,60 and over,17857
+2005,All road users,0 to 15 (children),28126
+2005,All road users,16 to 59,208454
+2005,All road users,60 and over,26967
+2006,Pedestrians,0 to 15 (children),10131
+2006,Pedestrians,16 to 59,15515
+2006,Pedestrians,60 and over,4259
+2006,Pedal cyclists,0 to 15 (children),3765
+2006,Pedal cyclists,16 to 59,10955
+2006,Pedal cyclists,60 and over,956
+2006,Motorcycle users,0 to 15 (children),335
+2006,Motorcycle users,16 to 59,21858
+2006,Motorcycle users,60 and over,651
+2006,Car drivers,16 to 59,102071
+2006,Car drivers,60 and over,11638
+2006,Car passengers,0 to 15 (children),10036
+2006,Car passengers,16 to 59,38103
+2006,Car passengers,60 and over,5592
+2006,Car occupants,0 to 15 (children),10084
+2006,Car occupants,16 to 59,140174
+2006,Car occupants,60 and over,17230
+2006,All road users,0 to 15 (children),25523
+2006,All road users,16 to 59,200259
+2006,All road users,60 and over,26234
+2007,Pedestrians,0 to 15 (children),9527
+2007,Pedestrians,16 to 59,15362
+2007,Pedestrians,60 and over,4314
+2007,Pedal cyclists,0 to 15 (children),3633
+2007,Pedal cyclists,16 to 59,11111
+2007,Pedal cyclists,60 and over,939
+2007,Motorcycle users,0 to 15 (children),253
+2007,Motorcycle users,16 to 59,22032
+2007,Motorcycle users,60 and over,746
+2007,Car drivers,16 to 59,96595
+2007,Car drivers,60 and over,11251
+2007,Car passengers,0 to 15 (children),9209
+2007,Car passengers,16 to 59,35816
+2007,Car passengers,60 and over,5246
+2007,Car occupants,0 to 15 (children),9251
+2007,Car occupants,16 to 59,132411
+2007,Car occupants,60 and over,16497
+2007,All road users,0 to 15 (children),23807
+2007,All road users,16 to 59,192507
+2007,All road users,60 and over,25467
+2008,Pedestrians,0 to 15 (children),8648
+2008,Pedestrians,16 to 59,14832
+2008,Pedestrians,60 and over,4181
+2008,Pedal cyclists,0 to 15 (children),3306
+2008,Pedal cyclists,16 to 59,11609
+2008,Pedal cyclists,60 and over,937
+2008,Motorcycle users,0 to 15 (children),196
+2008,Motorcycle users,16 to 59,20284
+2008,Motorcycle users,60 and over,698
+2008,Car drivers,16 to 59,88682
+2008,Car drivers,60 and over,10825
+2008,Car passengers,0 to 15 (children),8739
+2008,Car passengers,16 to 59,32927
+2008,Car passengers,60 and over,4907
+2008,Car occupants,0 to 15 (children),8769
+2008,Car occupants,16 to 59,121609
+2008,Car occupants,60 and over,15732
+2008,All road users,0 to 15 (children),21996
+2008,All road users,16 to 59,179098
+2008,All road users,60 and over,24484
+2009,Pedestrians,0 to 15 (children),7983
+2009,Pedestrians,16 to 59,14251
+2009,Pedestrians,60 and over,3997
+2009,Pedal cyclists,0 to 15 (children),3204
+2009,Pedal cyclists,16 to 59,12406
+2009,Pedal cyclists,60 and over,1014
+2009,Motorcycle users,0 to 15 (children),185
+2009,Motorcycle users,16 to 59,19361
+2009,Motorcycle users,60 and over,816
+2009,Car drivers,16 to 59,84634
+2009,Car drivers,60 and over,10767
+2009,Car passengers,0 to 15 (children),8282
+2009,Car passengers,16 to 59,32822
+2009,Car passengers,60 and over,4915
+2009,Car occupants,0 to 15 (children),8306
+2009,Car occupants,16 to 59,117456
+2009,Car occupants,60 and over,15682
+2009,All road users,0 to 15 (children),20655
+2009,All road users,16 to 59,173169
+2009,All road users,60 and over,24415
+2010,Pedestrians,0 to 15 (children),7929
+2010,Pedestrians,16 to 59,13718
+2010,Pedestrians,60 and over,3602
+2010,Pedal cyclists,0 to 15 (children),2828
+2010,Pedal cyclists,16 to 59,13005
+2010,Pedal cyclists,60 and over,965
+2010,Motorcycle users,0 to 15 (children),110
+2010,Motorcycle users,16 to 59,17457
+2010,Motorcycle users,60 and over,827
+2010,Car drivers,16 to 59,78241
+2010,Car drivers,60 and over,10531
+2010,Car passengers,0 to 15 (children),7763
+2010,Car passengers,16 to 59,29760
+2010,Car passengers,60 and over,4775
+2010,Car occupants,0 to 15 (children),7787
+2010,Car occupants,16 to 59,108001
+2010,Car occupants,60 and over,15306
+2010,All road users,0 to 15 (children),19569
+2010,All road users,16 to 59,161617
+2010,All road users,60 and over,23522
+2011,Pedestrians,0 to 15 (children),2287
+2011,Pedestrians,16 to 59,13889
+2011,Pedestrians,60 and over,3913
+2011,Pedal cyclists,0 to 15 (children),2881
+2011,Pedal cyclists,16 to 59,14852
+2011,Pedal cyclists,60 and over,1056
+2011,Motorcycle users,0 to 15 (children),106
+2011,Motorcycle users,16 to 59,18852
+2011,Motorcycle users,60 and over,895
+2011,Car drivers,16 to 59,72941
+2011,Car drivers,60 and over,10682
+2011,Car passengers,0 to 15 (children),7557
+2011,Car passengers,16 to 59,27433
+2011,Car passengers,60 and over,4624
+2011,Car occupants,0 to 15 (children),7571
+2011,Car occupants,16 to 59,100374
+2011,Car occupants,60 and over,15306
+2011,All road users,0 to 15 (children),19474
+2011,All road users,16 to 59,156937
+2011,All road users,60 and over,23979
+2012,Pedestrians,0 to 15 (children),6999
+2012,Pedestrians,16 to 59,13737
+2012,Pedestrians,60 and over,3952
+2012,Pedal cyclists,0 to 15 (children),2198
+2012,Pedal cyclists,16 to 59,15292
+2012,Pedal cyclists,60 and over,1154
+2012,Motorcycle users,0 to 15 (children),78
+2012,Motorcycle users,16 to 59,18076
+2012,Motorcycle users,60 and over,872
+2012,Car drivers,16 to 59,69716
+2012,Car drivers,60 and over,10489
+2012,Car passengers,0 to 15 (children),7137
+2012,Car passengers,16 to 59,26367
+2012,Car passengers,60 and over,4459
+2012,Car occupants,0 to 15 (children),7146
+2012,Car occupants,16 to 59,96083
+2012,Car occupants,60 and over,14948
+2012,All road users,0 to 15 (children),17251
+2012,All road users,16 to 59,151912
+2012,All road users,60 and over,23357
+2013,Pedestrians,0 to 15 (children),6396
+2013,Pedestrians,16 to 59,13349
+2013,Pedestrians,60 and over,3776
+2013,Pedal cyclists,0 to 15 (children),1958
+2013,Pedal cyclists,16 to 59,15953
+2013,Pedal cyclists,60 and over,1136
+2013,Motorcycle users,0 to 15 (children),86
+2013,Motorcycle users,16 to 59,17519
+2013,Motorcycle users,60 and over,883
+2013,Car drivers,16 to 59,64082
+2013,Car drivers,60 and over,10340
+2013,Car passengers,0 to 15 (children),6515
+2013,Car passengers,16 to 59,23122
+2013,Car passengers,60 and over,4262
+2013,Car occupants,0 to 15 (children),6529
+2013,Car occupants,16 to 59,87204
+2013,Car occupants,60 and over,14602
+2013,All road users,0 to 15 (children),15756
+2013,All road users,16 to 59,142150
+2013,All road users,60 and over,22712
+2014,Pedestrians,0 to 15 (children),6481
+2014,Pedestrians,16 to 59,13616
+2014,Pedestrians,60 and over,4127
+2014,Pedal cyclists,0 to 15 (children),2005
+2014,Pedal cyclists,16 to 59,17564
+2014,Pedal cyclists,60 and over,1317
+2014,Motorcycle users,0 to 15 (children),93
+2014,Motorcycle users,16 to 59,19019
+2014,Motorcycle users,60 and over,997
+2014,Car drivers,16 to 59,66961
+2014,Car drivers,60 and over,11090
+2014,Car passengers,0 to 15 (children),7224
+2014,Car passengers,16 to 59,24271
+2014,Car passengers,60 and over,4539
+2014,Car occupants,0 to 15 (children),7240
+2014,Car occupants,16 to 59,91232
+2014,Car occupants,60 and over,15629
+2014,All road users,0 to 15 (children),16727
+2014,All road users,16 to 59,150132
+2014,All road users,60 and over,24544
+2015,Pedestrians,0 to 15 (children),6317
+2015,Pedestrians,16 to 59,13227
+2015,Pedestrians,60 and over,4013
+2015,Pedal cyclists,0 to 15 (children),1929
+2015,Pedal cyclists,16 to 59,15371
+2015,Pedal cyclists,60 and over,1164
+2015,Motorcycle users,0 to 15 (children),93
+2015,Motorcycle users,16 to 59,18524
+2015,Motorcycle users,60 and over,1003
+2015,Car drivers,16 to 59,65249
+2015,Car drivers,60 and over,10529
+2015,Car passengers,0 to 15 (children),7001
+2015,Car passengers,16 to 59,23095
+2015,Car passengers,60 and over,4358
+2015,Car occupants,0 to 15 (children),7015
+2015,Car occupants,16 to 59,88344
+2015,Car occupants,60 and over,14887
+2015,All road users,0 to 15 (children),16103
+2015,All road users,16 to 59,143696
+2015,All road users,60 and over,23396
+2016,Pedestrians,0 to 15 (children),5998
+2016,Pedestrians,16 to 59,12947
+2016,Pedestrians,60 and over,4184
+2016,Pedal cyclists,0 to 15 (children),1981
+2016,Pedal cyclists,16 to 59,14848
+2016,Pedal cyclists,60 and over,1284
+2016,Motorcycle users,0 to 15 (children),87
+2016,Motorcycle users,16 to 59,17986
+2016,Motorcycle users,60 and over,991
+2016,Car drivers,16 to 59,63357
+2016,Car drivers,60 and over,10587
+2016,Car passengers,0 to 15 (children),7122
+2016,Car passengers,16 to 59,22242
+2016,Car passengers,60 and over,4264
+2016,Car occupants,0 to 15 (children),7130
+2016,Car occupants,16 to 59,85599
+2016,Car occupants,60 and over,14851
+2016,All road users,0 to 15 (children),15976
+2016,All road users,16 to 59,139153
+2016,All road users,60 and over,23409
+2017,Pedestrians,0 to 15 (children),5838
+2017,Pedestrians,16 to 59,13495
+2017,Pedestrians,60 and over,4128
+2017,Pedal cyclists,0 to 15 (children),2211
+2017,Pedal cyclists,16 to 59,14471
+2017,Pedal cyclists,60 and over,1342
+2017,Motorcycle users,0 to 15 (children),135
+2017,Motorcycle users,16 to 59,16743
+2017,Motorcycle users,60 and over,1007
+2017,Car drivers,16 to 59,57916
+2017,Car drivers,60 and over,9949
+2017,Car passengers,0 to 15 (children),6716
+2017,Car passengers,16 to 59,20457
+2017,Car passengers,60 and over,3869
+2017,Car occupants,0 to 15 (children),6726
+2017,Car occupants,16 to 59,78373
+2017,Car occupants,60 and over,13818
+2017,All road users,0 to 15 (children),15721
+2017,All road users,16 to 59,130683
+2017,All road users,60 and over,22375
+2018,Pedestrians,0 to 15 (children),5426
+2018,Pedestrians,16 to 59,12457
+2018,Pedestrians,60 and over,4196
+2018,Pedal cyclists,0 to 15 (children),1954
+2018,Pedal cyclists,16 to 59,13835
+2018,Pedal cyclists,60 and over,1390
+2018,Motorcycle users,0 to 15 (children),141
+2018,Motorcycle users,16 to 59,15484
+2018,Motorcycle users,60 and over,1037
+2018,Car drivers,16 to 59,53985
+2018,Car drivers,60 and over,10063
+2018,Car passengers,0 to 15 (children),5995
+2018,Car passengers,16 to 59,18315
+2018,Car passengers,60 and over,3850
+2018,Car occupants,0 to 15 (children),6015
+2018,Car occupants,16 to 59,72300
+2018,Car occupants,60 and over,13913
+2018,All road users,0 to 15 (children),14266
+2018,All road users,16 to 59,120960
+2018,All road users,60 and over,22483
+2019,Pedestrians,0 to 15 (children),5200
+2019,Pedestrians,16 to 59,12209
+2019,Pedestrians,60 and over,3964
+2019,Pedal cyclists,0 to 15 (children),1994
+2019,Pedal cyclists,16 to 59,13136
+2019,Pedal cyclists,60 and over,1337
+2019,Motorcycle users,0 to 15 (children),117
+2019,Motorcycle users,16 to 59,14877
+2019,Motorcycle users,60 and over,1064
+2019,Car drivers,16 to 59,51503
+2019,Car drivers,60 and over,9711
+2019,Car passengers,0 to 15 (children),5693
+2019,Car passengers,16 to 59,16920
+2019,Car passengers,60 and over,3532
+2019,Car occupants,0 to 15 (children),5709
+2019,Car occupants,16 to 59,68423
+2019,Car occupants,60 and over,13243
+2019,All road users,0 to 15 (children),13574
+2019,All road users,16 to 59,114957
+2019,All road users,60 and over,21372
+2020,Pedestrians,0 to 15 (children),3487
+2020,Pedestrians,16 to 59,8276
+2020,Pedestrians,60 and over,2709
+2020,Pedal cyclists,0 to 15 (children),1670
+2020,Pedal cyclists,16 to 59,12607
+2020,Pedal cyclists,60 and over,1634
+2020,Motorcycle users,0 to 15 (children),84
+2020,Motorcycle users,16 to 59,12508
+2020,Motorcycle users,60 and over,870
+2020,Car drivers,16 to 59,38489
+2020,Car drivers,60 and over,6457
+2020,Car passengers,0 to 15 (children),3558
+2020,Car passengers,16 to 59,12241
+2020,Car passengers,60 and over,2009
+2020,Car occupants,0 to 15 (children),3575
+2020,Car occupants,16 to 59,50730
+2020,Car occupants,60 and over,8466
+2020,All road users,0 to 15 (children),9171
+2020,All road users,16 to 59,89272
+2020,All road users,60 and over,14660
+2021,Pedestrians,0 to 15 (children),4301
+2021,Pedestrians,16 to 59,9199
+2021,Pedestrians,60 and over,2837
+2021,Pedal cyclists,0 to 15 (children),1654
+2021,Pedal cyclists,16 to 59,12789
+2021,Pedal cyclists,60 and over,1588
+2021,Motorcycle users,0 to 15 (children),121
+2021,Motorcycle users,16 to 59,14540
+2021,Motorcycle users,60 and over,1044
+2021,Car drivers,16 to 59,41818
+2021,Car drivers,60 and over,7537
+2021,Car passengers,0 to 15 (children),4230
+2021,Car passengers,16 to 59,13152
+2021,Car passengers,60 and over,2400
+2021,Car occupants,0 to 15 (children),4243
+2021,Car occupants,16 to 59,54970
+2021,Car occupants,60 and over,9937
+2021,All road users,0 to 15 (children),10924
+2021,All road users,16 to 59,97908
+2021,All road users,60 and over,16619
