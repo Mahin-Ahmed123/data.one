@@ -1,0 +1,401 @@
+typeOfRoad,speedLimit,Severity,year,result
+Motorways,70,Fatal,2012,80
+Motorways,70,Fatal,2013,97
+Motorways,70,Fatal,2014,85
+Motorways,70,Fatal,2015,96
+Motorways,70,Fatal,2016,87
+Motorways,70,Fatal,2017,77
+Motorways,70,Fatal,2018,92
+Motorways,70,Fatal,2019,100
+Motorways,70,Fatal,2020,76
+Motorways,70,Fatal,2021,92
+Motorways,70,FSC (unadjusted),2012,626
+Motorways,70,FSC (unadjusted),2013,637
+Motorways,70,FSC (unadjusted),2014,678
+Motorways,70,FSC (unadjusted),2015,708
+Motorways,70,FSC (unadjusted),2016,763
+Motorways,70,FSC (unadjusted),2017,692
+Motorways,70,FSC (unadjusted),2018,767
+Motorways,70,FSC (unadjusted),2019,749
+Motorways,70,FSC (unadjusted),2020,543
+Motorways,70,FSC (unadjusted),2021,679
+Motorways,70,FSC (adjusted),2012,965
+Motorways,70,FSC (adjusted),2013,957
+Motorways,70,FSC (adjusted),2014,"1,017"
+Motorways,70,FSC (adjusted),2015,"1,022"
+Motorways,70,FSC (adjusted),2016,972
+Motorways,70,FSC (adjusted),2017,874
+Motorways,70,FSC (adjusted),2018,943
+Motorways,70,FSC (adjusted),2019,873
+Motorways,70,FSC (adjusted),2020,608
+Motorways,70,FSC (adjusted),2021,737
+Motorways,70,All casualties,2012,"5,615"
+Motorways,70,All casualties,2013,"5,397"
+Motorways,70,All casualties,2014,"5,630"
+Motorways,70,All casualties,2015,"5,550"
+Motorways,70,All casualties,2016,"5,405"
+Motorways,70,All casualties,2017,"4,778"
+Motorways,70,All casualties,2018,"4,566"
+Motorways,70,All casualties,2019,"4,130"
+Motorways,70,All casualties,2020,"2,581"
+Motorways,70,All casualties,2021,"3,388"
+Built up,20,Fatal,2012,9
+Built up,20,Fatal,2013,6
+Built up,20,Fatal,2014,28
+Built up,20,Fatal,2015,12
+Built up,20,Fatal,2016,29
+Built up,20,Fatal,2017,52
+Built up,20,Fatal,2018,49
+Built up,20,Fatal,2019,55
+Built up,20,Fatal,2020,53
+Built up,20,Fatal,2021,50
+Built up,20,FSC (unadjusted),2012,342
+Built up,20,FSC (unadjusted),2013,426
+Built up,20,FSC (unadjusted),2014,520
+Built up,20,FSC (unadjusted),2015,655
+Built up,20,FSC (unadjusted),2016,"1,018"
+Built up,20,FSC (unadjusted),2017,"1,510"
+Built up,20,FSC (unadjusted),2018,"1,781"
+Built up,20,FSC (unadjusted),2019,"1,901"
+Built up,20,FSC (unadjusted),2020,"1,760"
+Built up,20,FSC (unadjusted),2021,"2,533"
+Built up,20,FSC (adjusted),2012,503
+Built up,20,FSC (adjusted),2013,614
+Built up,20,FSC (adjusted),2014,757
+Built up,20,FSC (adjusted),2015,932
+Built up,20,FSC (adjusted),2016,"1,347"
+Built up,20,FSC (adjusted),2017,"1,793"
+Built up,20,FSC (adjusted),2018,"2,057"
+Built up,20,FSC (adjusted),2019,"2,103"
+Built up,20,FSC (adjusted),2020,"1,879"
+Built up,20,FSC (adjusted),2021,"2,653"
+Built up,20,All casualties,2012,"2,248"
+Built up,20,All casualties,2013,"2,664"
+Built up,20,All casualties,2014,"3,417"
+Built up,20,All casualties,2015,"4,291"
+Built up,20,All casualties,2016,"6,747"
+Built up,20,All casualties,2017,"9,632"
+Built up,20,All casualties,2018,"10,661"
+Built up,20,All casualties,2019,"11,742"
+Built up,20,All casualties,2020,"11,182"
+Built up,20,All casualties,2021,"14,772"
+Built up,30,Fatal,2012,582
+Built up,30,Fatal,2013,520
+Built up,30,Fatal,2014,589
+Built up,30,Fatal,2015,523
+Built up,30,Fatal,2016,571
+Built up,30,Fatal,2017,564
+Built up,30,Fatal,2018,567
+Built up,30,Fatal,2019,543
+Built up,30,Fatal,2020,468
+Built up,30,Fatal,2021,492
+Built up,30,FSC (unadjusted),2012,"13,264"
+Built up,30,FSC (unadjusted),2013,"12,085"
+Built up,30,FSC (unadjusted),2014,"12,507"
+Built up,30,FSC (unadjusted),2015,"11,984"
+Built up,30,FSC (unadjusted),2016,"12,626"
+Built up,30,FSC (unadjusted),2017,"13,276"
+Built up,30,FSC (unadjusted),2018,"13,459"
+Built up,30,FSC (unadjusted),2019,"13,286"
+Built up,30,FSC (unadjusted),2020,"10,305"
+Built up,30,FSC (unadjusted),2021,"11,791"
+Built up,30,FSC (adjusted),2012,"19,460"
+Built up,30,FSC (adjusted),2013,"18,003"
+Built up,30,FSC (adjusted),2014,"18,842"
+Built up,30,FSC (adjusted),2015,"17,757"
+Built up,30,FSC (adjusted),2016,"16,745"
+Built up,30,FSC (adjusted),2017,"15,888"
+Built up,30,FSC (adjusted),2018,"15,941"
+Built up,30,FSC (adjusted),2019,"15,224"
+Built up,30,FSC (adjusted),2020,"11,687"
+Built up,30,FSC (adjusted),2021,"13,018"
+Built up,30,All casualties,2012,"94,928"
+Built up,30,All casualties,2013,"89,424"
+Built up,30,All casualties,2014,"94,931"
+Built up,30,All casualties,2015,"89,549"
+Built up,30,All casualties,2016,"84,923"
+Built up,30,All casualties,2017,"79,494"
+Built up,30,All casualties,2018,"73,408"
+Built up,30,All casualties,2019,"69,234"
+Built up,30,All casualties,2020,"52,204"
+Built up,30,All casualties,2021,"55,798"
+Built up,40,Fatal,2012,155
+Built up,40,Fatal,2013,155
+Built up,40,Fatal,2014,135
+Built up,40,Fatal,2015,186
+Built up,40,Fatal,2016,165
+Built up,40,Fatal,2017,148
+Built up,40,Fatal,2018,168
+Built up,40,Fatal,2019,184
+Built up,40,Fatal,2020,132
+Built up,40,Fatal,2021,145
+Built up,40,FSC (unadjusted),2012,"1,948"
+Built up,40,FSC (unadjusted),2013,"1,806"
+Built up,40,FSC (unadjusted),2014,"1,961"
+Built up,40,FSC (unadjusted),2015,"1,951"
+Built up,40,FSC (unadjusted),2016,"2,024"
+Built up,40,FSC (unadjusted),2017,"2,064"
+Built up,40,FSC (unadjusted),2018,"2,245"
+Built up,40,FSC (unadjusted),2019,"2,242"
+Built up,40,FSC (unadjusted),2020,"1,850"
+Built up,40,FSC (unadjusted),2021,"1,996"
+Built up,40,FSC (adjusted),2012,"2,691"
+Built up,40,FSC (adjusted),2013,"2,524"
+Built up,40,FSC (adjusted),2014,"2,729"
+Built up,40,FSC (adjusted),2015,"2,708"
+Built up,40,FSC (adjusted),2016,"2,496"
+Built up,40,FSC (adjusted),2017,"2,467"
+Built up,40,FSC (adjusted),2018,"2,629"
+Built up,40,FSC (adjusted),2019,"2,551"
+Built up,40,FSC (adjusted),2020,"2,082"
+Built up,40,FSC (adjusted),2021,"2,218"
+Built up,40,All casualties,2012,"11,860"
+Built up,40,All casualties,2013,"11,448"
+Built up,40,All casualties,2014,"11,949"
+Built up,40,All casualties,2015,"11,729"
+Built up,40,All casualties,2016,"11,360"
+Built up,40,All casualties,2017,"10,517"
+Built up,40,All casualties,2018,"10,147"
+Built up,40,All casualties,2019,"9,952"
+Built up,40,All casualties,2020,"7,806"
+Built up,40,All casualties,2021,"8,495"
+Built up,All speeds,Fatal,2012,746
+Built up,All speeds,Fatal,2013,681
+Built up,All speeds,Fatal,2014,752
+Built up,All speeds,Fatal,2015,721
+Built up,All speeds,Fatal,2016,765
+Built up,All speeds,Fatal,2017,764
+Built up,All speeds,Fatal,2018,784
+Built up,All speeds,Fatal,2019,782
+Built up,All speeds,Fatal,2020,653
+Built up,All speeds,Fatal,2021,687
+Built up,All speeds,FSC (unadjusted),2012,"15,554"
+Built up,All speeds,FSC (unadjusted),2013,"14,317"
+Built up,All speeds,FSC (unadjusted),2014,"14,988"
+Built up,All speeds,FSC (unadjusted),2015,"14,590"
+Built up,All speeds,FSC (unadjusted),2016,"15,668"
+Built up,All speeds,FSC (unadjusted),2017,"16,850"
+Built up,All speeds,FSC (unadjusted),2018,"17,485"
+Built up,All speeds,FSC (unadjusted),2019,"17,429"
+Built up,All speeds,FSC (unadjusted),2020,"13,915"
+Built up,All speeds,FSC (unadjusted),2021,"16,320"
+Built up,All speeds,FSC (adjusted),2012,"22,654"
+Built up,All speeds,FSC (adjusted),2013,"21,140"
+Built up,All speeds,FSC (adjusted),2014,"22,328"
+Built up,All speeds,FSC (adjusted),2015,"21,397"
+Built up,All speeds,FSC (adjusted),2016,"20,588"
+Built up,All speeds,FSC (adjusted),2017,"20,148"
+Built up,All speeds,FSC (adjusted),2018,"20,627"
+Built up,All speeds,FSC (adjusted),2019,"19,877"
+Built up,All speeds,FSC (adjusted),2020,"15,647"
+Built up,All speeds,FSC (adjusted),2021,"17,890"
+Built up,All speeds,All casualties,2012,"109,036"
+Built up,All speeds,All casualties,2013,"103,536"
+Built up,All speeds,All casualties,2014,"110,297"
+Built up,All speeds,All casualties,2015,"105,569"
+Built up,All speeds,All casualties,2016,"103,030"
+Built up,All speeds,All casualties,2017,"99,643"
+Built up,All speeds,All casualties,2018,"94,216"
+Built up,All speeds,All casualties,2019,"90,928"
+Built up,All speeds,All casualties,2020,"71,192"
+Built up,All speeds,All casualties,2021,"79,065"
+Non built up,50,Fatal,2012,92
+Non built up,50,Fatal,2013,109
+Non built up,50,Fatal,2014,125
+Non built up,50,Fatal,2015,114
+Non built up,50,Fatal,2016,120
+Non built up,50,Fatal,2017,140
+Non built up,50,Fatal,2018,134
+Non built up,50,Fatal,2019,111
+Non built up,50,Fatal,2020,107
+Non built up,50,Fatal,2021,110
+Non built up,50,FSC (unadjusted),2012,835
+Non built up,50,FSC (unadjusted),2013,950
+Non built up,50,FSC (unadjusted),2014,"1,064"
+Non built up,50,FSC (unadjusted),2015,959
+Non built up,50,FSC (unadjusted),2016,"1,105"
+Non built up,50,FSC (unadjusted),2017,"1,067"
+Non built up,50,FSC (unadjusted),2018,"1,112"
+Non built up,50,FSC (unadjusted),2019,"1,045"
+Non built up,50,FSC (unadjusted),2020,911
+Non built up,50,FSC (unadjusted),2021,"1,073"
+Non built up,50,FSC (adjusted),2012,"1,188"
+Non built up,50,FSC (adjusted),2013,"1,302"
+Non built up,50,FSC (adjusted),2014,"1,468"
+Non built up,50,FSC (adjusted),2015,"1,328"
+Non built up,50,FSC (adjusted),2016,"1,363"
+Non built up,50,FSC (adjusted),2017,"1,271"
+Non built up,50,FSC (adjusted),2018,"1,314"
+Non built up,50,FSC (adjusted),2019,"1,196"
+Non built up,50,FSC (adjusted),2020,"1,026"
+Non built up,50,FSC (adjusted),2021,"1,208"
+Non built up,50,All casualties,2012,"4,972"
+Non built up,50,All casualties,2013,"5,125"
+Non built up,50,All casualties,2014,"5,534"
+Non built up,50,All casualties,2015,"5,302"
+Non built up,50,All casualties,2016,"5,339"
+Non built up,50,All casualties,2017,"4,945"
+Non built up,50,All casualties,2018,"4,773"
+Non built up,50,All casualties,2019,"4,432"
+Non built up,50,All casualties,2020,"3,616"
+Non built up,50,All casualties,2021,"4,031"
+Non built up,60,Fatal,2012,599
+Non built up,60,Fatal,2013,600
+Non built up,60,Fatal,2014,585
+Non built up,60,Fatal,2015,576
+Non built up,60,Fatal,2016,592
+Non built up,60,Fatal,2017,581
+Non built up,60,Fatal,2018,542
+Non built up,60,Fatal,2019,548
+Non built up,60,Fatal,2020,473
+Non built up,60,Fatal,2021,483
+Non built up,60,FSC (unadjusted),2012,"4,751"
+Non built up,60,FSC (unadjusted),2013,"4,532"
+Non built up,60,FSC (unadjusted),2014,"4,700"
+Non built up,60,FSC (unadjusted),2015,"4,533"
+Non built up,60,FSC (unadjusted),2016,"4,754"
+Non built up,60,FSC (unadjusted),2017,"4,614"
+Non built up,60,FSC (unadjusted),2018,"4,453"
+Non built up,60,FSC (unadjusted),2019,"4,547"
+Non built up,60,FSC (unadjusted),2020,"3,711"
+Non built up,60,FSC (unadjusted),2021,"3,955"
+Non built up,60,FSC (adjusted),2012,"6,628"
+Non built up,60,FSC (adjusted),2013,"6,310"
+Non built up,60,FSC (adjusted),2014,"6,468"
+Non built up,60,FSC (adjusted),2015,"6,194"
+Non built up,60,FSC (adjusted),2016,"5,864"
+Non built up,60,FSC (adjusted),2017,"5,588"
+Non built up,60,FSC (adjusted),2018,"5,361"
+Non built up,60,FSC (adjusted),2019,"5,218"
+Non built up,60,FSC (adjusted),2020,"4,138"
+Non built up,60,FSC (adjusted),2021,"4,438"
+Non built up,60,All casualties,2012,"21,073"
+Non built up,60,All casualties,2013,"19,925"
+Non built up,60,All casualties,2014,"19,937"
+Non built up,60,All casualties,2015,"18,982"
+Non built up,60,All casualties,2016,"18,295"
+Non built up,60,All casualties,2017,"16,604"
+Non built up,60,All casualties,2018,"15,299"
+Non built up,60,All casualties,2019,"14,400"
+Non built up,60,All casualties,2020,"11,315"
+Non built up,60,All casualties,2021,"11,827"
+Non built up,70,Fatal,2012,120
+Non built up,70,Fatal,2013,121
+Non built up,70,Fatal,2014,111
+Non built up,70,Fatal,2015,109
+Non built up,70,Fatal,2016,131
+Non built up,70,Fatal,2017,114
+Non built up,70,Fatal,2018,119
+Non built up,70,Fatal,2019,117
+Non built up,70,Fatal,2020,82
+Non built up,70,Fatal,2021,102
+Non built up,70,FSC (unadjusted),2012,767
+Non built up,70,FSC (unadjusted),2013,757
+Non built up,70,FSC (unadjusted),2014,875
+Non built up,70,FSC (unadjusted),2015,808
+Non built up,70,FSC (unadjusted),2016,880
+Non built up,70,FSC (unadjusted),2017,809
+Non built up,70,FSC (unadjusted),2018,822
+Non built up,70,FSC (unadjusted),2019,863
+Non built up,70,FSC (unadjusted),2020,663
+Non built up,70,FSC (unadjusted),2021,731
+Non built up,70,FSC (adjusted),2012,"1,084"
+Non built up,70,FSC (adjusted),2013,"1,070"
+Non built up,70,FSC (adjusted),2014,"1,195"
+Non built up,70,FSC (adjusted),2015,"1,104"
+Non built up,70,FSC (adjusted),2016,"1,049"
+Non built up,70,FSC (adjusted),2017,955
+Non built up,70,FSC (adjusted),2018,957
+Non built up,70,FSC (adjusted),2019,970
+Non built up,70,FSC (adjusted),2020,730
+Non built up,70,FSC (adjusted),2021,807
+Non built up,70,All casualties,2012,"4,875"
+Non built up,70,All casualties,2013,"4,677"
+Non built up,70,All casualties,2014,"4,924"
+Non built up,70,All casualties,2015,"4,652"
+Non built up,70,All casualties,2016,"4,515"
+Non built up,70,All casualties,2017,"4,012"
+Non built up,70,All casualties,2018,"3,781"
+Non built up,70,All casualties,2019,"3,566"
+Non built up,70,All casualties,2020,"2,483"
+Non built up,70,All casualties,2021,"2,776"
+Non built up,All speeds,Fatal,2012,811
+Non built up,All speeds,Fatal,2013,830
+Non built up,All speeds,Fatal,2014,821
+Non built up,All speeds,Fatal,2015,799
+Non built up,All speeds,Fatal,2016,843
+Non built up,All speeds,Fatal,2017,835
+Non built up,All speeds,Fatal,2018,795
+Non built up,All speeds,Fatal,2019,776
+Non built up,All speeds,Fatal,2020,662
+Non built up,All speeds,Fatal,2021,695
+Non built up,All speeds,FSC (unadjusted),2012,"6,353"
+Non built up,All speeds,FSC (unadjusted),2013,"6,239"
+Non built up,All speeds,FSC (unadjusted),2014,"6,639"
+Non built up,All speeds,FSC (unadjusted),2015,"6,300"
+Non built up,All speeds,FSC (unadjusted),2016,"6,739"
+Non built up,All speeds,FSC (unadjusted),2017,"6,490"
+Non built up,All speeds,FSC (unadjusted),2018,"6,387"
+Non built up,All speeds,FSC (unadjusted),2019,"6,455"
+Non built up,All speeds,FSC (unadjusted),2020,"5,285"
+Non built up,All speeds,FSC (unadjusted),2021,"5,759"
+Non built up,All speeds,FSC (adjusted),2012,"8,899"
+Non built up,All speeds,FSC (adjusted),2013,"8,682"
+Non built up,All speeds,FSC (adjusted),2014,"9,131"
+Non built up,All speeds,FSC (adjusted),2015,"8,626"
+Non built up,All speeds,FSC (adjusted),2016,"8,276"
+Non built up,All speeds,FSC (adjusted),2017,"7,814"
+Non built up,All speeds,FSC (adjusted),2018,"7,632"
+Non built up,All speeds,FSC (adjusted),2019,"7,384"
+Non built up,All speeds,FSC (adjusted),2020,"5,894"
+Non built up,All speeds,FSC (adjusted),2021,"6,452"
+Non built up,All speeds,All casualties,2012,"30,920"
+Non built up,All speeds,All casualties,2013,"29,727"
+Non built up,All speeds,All casualties,2014,"30,395"
+Non built up,All speeds,All casualties,2015,"28,936"
+Non built up,All speeds,All casualties,2016,"28,149"
+Non built up,All speeds,All casualties,2017,"25,561"
+Non built up,All speeds,All casualties,2018,"23,853"
+Non built up,All speeds,All casualties,2019,"22,398"
+Non built up,All speeds,All casualties,2020,"17,414"
+Non built up,All speeds,All casualties,2021,"18,634"
+All road types,All speeds,Fatal,2012,"1,637"
+All road types,All speeds,Fatal,2013,"1,608"
+All road types,All speeds,Fatal,2014,"1,658"
+All road types,All speeds,Fatal,2015,"1,616"
+All road types,All speeds,Fatal,2016,"1,695"
+All road types,All speeds,Fatal,2017,"1,676"
+All road types,All speeds,Fatal,2018,"1,671"
+All road types,All speeds,Fatal,2019,"1,658"
+All road types,All speeds,Fatal,2020,"1,391"
+All road types,All speeds,Fatal,2021,"1,474"
+All road types,All speeds,FSC (unadjusted),2012,"22,533"
+All road types,All speeds,FSC (unadjusted),2013,"21,193"
+All road types,All speeds,FSC (unadjusted),2014,"22,305"
+All road types,All speeds,FSC (unadjusted),2015,"21,598"
+All road types,All speeds,FSC (unadjusted),2016,"23,173"
+All road types,All speeds,FSC (unadjusted),2017,"24,032"
+All road types,All speeds,FSC (unadjusted),2018,"24,639"
+All road types,All speeds,FSC (unadjusted),2019,"24,638"
+All road types,All speeds,FSC (unadjusted),2020,"19,746"
+All road types,All speeds,FSC (unadjusted),2021,"22,758"
+All road types,All speeds,FSC (adjusted),2012,"32,518"
+All road types,All speeds,FSC (adjusted),2013,"30,779"
+All road types,All speeds,FSC (adjusted),2014,"32,475"
+All road types,All speeds,FSC (adjusted),2015,"31,045"
+All road types,All speeds,FSC (adjusted),2016,"29,841"
+All road types,All speeds,FSC (adjusted),2017,"28,836"
+All road types,All speeds,FSC (adjusted),2018,"29,201"
+All road types,All speeds,FSC (adjusted),2019,"28,138"
+All road types,All speeds,FSC (adjusted),2020,"22,152"
+All road types,All speeds,FSC (adjusted),2021,"25,079"
+All road types,All speeds,All casualties,2012,"145,571"
+All road types,All speeds,All casualties,2013,"138,660"
+All road types,All speeds,All casualties,2014,"146,322"
+All road types,All speeds,All casualties,2015,"140,056"
+All road types,All speeds,All casualties,2016,"136,621"
+All road types,All speeds,All casualties,2017,"129,982"
+All road types,All speeds,All casualties,2018,"122,635"
+All road types,All speeds,All casualties,2019,"117,536"
+All road types,All speeds,All casualties,2020,"91,199"
+All road types,All speeds,All casualties,2021,"101,087"
